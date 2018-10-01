@@ -1,0 +1,10 @@
+com\niit\chinesbackend\model\Product.class
+com\niit\chinesbackend\dao\ProductDaoImpl.class
+com\niit\chinesbackend\App.class
+com\niit\chinesbackend\model\Category.class
+com\niit\chinesbackend\dao\UserDao.class
+com\niit\chinesbackend\config\DBconfig.class
+com\niit\chinesbackend\dao\UserDaoImpl.class
+com\niit\chinesbackend\dao\ProductDao.class
+com\niit\chinesbackend\dao\CategoryDao.class
+com\niit\chinesbackend\model\User.class
